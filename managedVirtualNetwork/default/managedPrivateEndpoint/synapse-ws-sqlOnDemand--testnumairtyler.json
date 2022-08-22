@@ -1,0 +1,10 @@
+{
+	"name": "synapse-ws-sqlOnDemand--testnumairtyler",
+	"properties": {
+		"privateLinkResourceId": "/subscriptions/01e3e514-1791-4635-b9f8-014176ea9db6/resourceGroups/sfasfaeeyuiii/providers/Microsoft.Synapse/workspaces/testnumairtyler",
+		"groupId": "sqlOnDemand",
+		"fqdns": [
+			"testnumairtyler-ondemand.38f64df0-47de-429a-85d8-f5ca547f90da.sql.azuresynapse.net"
+		]
+	}
+}

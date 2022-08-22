@@ -1,0 +1,10 @@
+{
+	"name": "synapse-ws-custstgacct--testnumairtyler-testnumair",
+	"properties": {
+		"privateLinkResourceId": "/subscriptions/01e3e514-1791-4635-b9f8-014176ea9db6/resourceGroups/sfasfaeeyuiii/providers/Microsoft.Storage/storageAccounts/testnumair",
+		"groupId": "dfs",
+		"fqdns": [
+			"testnumair.dfs.core.windows.net"
+		]
+	}
+}
